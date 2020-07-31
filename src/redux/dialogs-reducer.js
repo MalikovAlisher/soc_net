@@ -3,7 +3,7 @@ const UPDATE_MESSAGE = "UPDATE-MESSAGE";
 
 let initialState = {
   messageData: [
-    { id: 1, message: "Hi" },
+    { id: 1, message: "H!i" },
     { id: 2, message: "Hello, how are u?" },
     { id: 3, message: "Thanks no bad and you?" },
     { id: 4, message: "everything is ok!" },
