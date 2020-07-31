@@ -1,0 +1,11 @@
+img{
+   object-fit: scale-down;
+}
+
+.item{
+    color: #fff;
+}
+
+.newPost{
+    color: #aa0a0a;
+}

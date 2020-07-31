@@ -1,0 +1,17 @@
+.navMenu {
+  flex: 0 2 200px;
+  background: blue;
+  text-align: center;
+}
+.item {
+  color: #fff;
+  font-size: 20px;
+  margin: 1rem 0;
+}
+.item a{
+  color: white;
+  text-decoration: none;
+}
+.active{
+  color: #730606!important;
+}

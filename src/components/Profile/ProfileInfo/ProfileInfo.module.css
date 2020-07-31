@@ -1,0 +1,10 @@
+.bgImage {
+    width: 100%;
+    display: flex;
+}
+.bgImage img{
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}

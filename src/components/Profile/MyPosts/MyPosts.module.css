@@ -1,0 +1,34 @@
+.item{
+    color: red;
+}
+
+.myPosts{
+    max-width: 415px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.myPosts button, .myPosts textarea{
+    margin-top: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+.myPosts button{
+    padding: .5rem;
+
+}
+.myPostBtn:focus{
+    border: 1px solid #29B0D9;
+}
+
+.posts{
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.myPostsWrap{
+    max-width: 500px;
+    margin: 0 auto;
+}
