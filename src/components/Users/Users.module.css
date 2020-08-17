@@ -1,0 +1,41 @@
+.UsersItem{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item{
+    width: 500px;
+    display: flex;
+    margin: 1rem 0;
+    padding: 1rem ;
+    background-color: #fff;
+}
+
+.itemPhoto{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-bottom: 1em;
+
+
+}
+
+.itemPhoto img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center!important;
+
+
+}
+
+
+.info{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: .5em 1em ;
+}
